@@ -1,0 +1,21 @@
+{
+    "name": "Notes",
+    "short_name": "SN",
+    "start_url": "/ ",
+    "display": "standalone",
+    "theme_color": "#e82424",
+    "background_color": "#0f0f0f",
+    "icons": [
+      {
+        "src": "./img/spider-logo.png",
+        "sizes": "192x192",
+        "type": "image/png"
+      },
+      {
+        "src": "./img/spider-logo.png",
+        "sizes": "512x512",
+        "type": "image/png"
+      }
+    ]
+  }
+  

@@ -1,0 +1,61 @@
+/* Estilos para el contenedor del modal */
+.modal {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgba(0, 0, 0, 0.5); /* Fondo semitransparente */
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    max-width: 94%;
+    padding: 8px 8px 8px 10px;
+  }
+  
+  /* Estilos para el contenido del modal */
+  .modal-content {
+    display: flex;
+    color: #e82424;
+    background-color: #1d1916;
+    padding: 20px;
+    border: 3px solid #e82424;
+    border-radius: 4px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+    max-width: 500px;
+  }
+  
+  /* Estilos para el botón de cerrar */
+  .modal-close {
+    margin-top: 10px;
+    padding: 8px 12px;
+    background-color: #1d1916;
+    border: 3px solid #e82424;
+    color: #e82424;
+    border-radius: 4px;
+    cursor: pointer;
+    height: 40px;
+  }
+  
+  .textarea{
+    display: flex;
+    font-size: 20px;
+    color: #e82424;
+    background-color: #1d1916;
+    padding: 20px;
+    border: 3px solid #e82424;
+    border-radius: 4px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+    max-width: 500px;
+    margin: 10px 5px 5px 5px;
+    
+  }
+
+  .checkbox-cont{
+    display: flex;    
+  }
+ .label-box{
+  display: flex;
+  margin: 5px;
+  align-items: center;
+ } 

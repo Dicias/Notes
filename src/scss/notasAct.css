@@ -1,0 +1,55 @@
+.notasA{
+    width: 40%;
+    height: 100%;
+    background-color: #1d1916;
+    color: #e82424;
+    border-radius: 15px;
+    border: 3px solid #e82424;
+    padding: 5px;
+    margin: 5px;
+    text-shadow: 3px 3px 3px #000;
+    box-sizing:border-box;
+    overflow-x: scroll;
+  }
+@media(max-width:767px){
+    .notasA{
+        width: 90%;
+        height: 200px;
+        background-color: #1d1916;
+        color: #e82424;
+        border-radius: 15px;
+        border: 3px solid #e82424;
+        padding: 5px;
+        margin: 5px 0 0 15px ;
+        text-shadow: 3px 3px 3px #000;
+        box-sizing:border-box;
+        justify-content: center;
+        overflow-y: scroll;
+        
+    }
+}
+  
+  
+  .notasA:hover{
+    background-color: #e82424;
+    color: #1d1916;
+    border: 3px solid #1d1916;
+    text-shadow: 2px 2px 2px #ffffff;
+    transition: 0.5s;
+  
+  }
+  .notasA p{
+    font-size: 12px;
+
+  }
+  .notasA h4{
+    margin: 5px 0 5px 0;
+  }
+    .notasA label{
+        font-size: 1rem;
+    }
+    
+.notes-actual-container{
+    overflow-y: scroll;
+    height: 300px;
+}

@@ -1,0 +1,52 @@
+{
+  "notes": [
+    {
+      "tittle": "Test2",
+      "content": "this is a test2",
+      "category": "Gym",
+      "date": "",
+      "id": 0,
+      "important": true
+    },
+    {
+      "tittle": "Test",
+      "content": "this is a test",
+      "category": "Gym",
+      "date": "",
+      "id": 1,
+      "important": false
+    },
+    {
+      "tittle": "Test3",
+      "content": "this is a test3",
+      "category": "Gym",
+      "date": "",
+      "id": 2,
+      "important": false
+    },
+    {
+      "tittle": "Esta debe ",
+      "category": "ser ",
+      "content": "la 5",
+      "date": "2023-06-12T18:08:39.219Z",
+      "id": 5,
+      "important": false
+    },
+    {
+      "tittle": "ando claro",
+      "category": "como ",
+      "content": "pinifari",
+      "date": "2023-06-12T18:23:15.045Z",
+      "id": 6,
+      "important": false
+    },
+    {
+      "tittle": "Nota",
+      "category": "imp",
+      "content": "test",
+      "date": "2023-06-13T12:45:13.133Z",
+      "id": 7,
+      "important": true
+    }
+  ]
+}
